@@ -73,18 +73,8 @@ saveethaengg@gmail.com</div>
 ```
 
 # OUTPUT:
+![alt text](<Screenshot 2025-12-22 231820.png>)
 
-
-
-
-
-
-
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 83945453165ec6018b169d9180d77db431c10985
 
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
